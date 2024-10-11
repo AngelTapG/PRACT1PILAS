@@ -1,1 +1,1 @@
-# PRACT1PILAS
+La pila termina con 2 elementos: ['V', 'R']. También ocurrió un subdesbordamiento cuando se intentó eliminar un elemento de la pila vacía tras haber eliminado 'X'. Este error se produjo en la operación de eliminar 'U', cuando la pila ya no tenía elementos. El mensaje de error correspondiente fue: "Error: Subdesbordamiento. La pila está vacía."
